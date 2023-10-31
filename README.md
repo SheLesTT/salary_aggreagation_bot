@@ -1,1 +1,1 @@
-# sallary_aggreagation_bot
+# salary_aggreagation_bot
